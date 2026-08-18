@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main]
+    branches: [main, validation/windows-vb-cable]
   pull_request:
 
 permissions:
