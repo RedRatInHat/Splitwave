@@ -105,9 +105,6 @@ The Microphone Array contribution is attributed to
 [Red Rat in Hat](https://redratinhat.com/products/) in the node's lower-right
 corner and in the feature guide.
 
-<details>
-<summary><strong>Full feature report: purpose, architecture, screenshots, validation, performance, and limitations</strong></summary>
-
 ## Universal N-channel Microphone Array
 
 ### What is this feature, why is it needed, and how does it work?
@@ -452,8 +449,6 @@ The primary concept image was first authored as an exact SVG, rendered and visua
 - [x] Linux common/pure coverage performed and environment failures named.
 - [x] Platform/hardware gaps named explicitly.
 - [x] User guide, architecture/provenance guide, hardware test guide, exact SVGs, imagegen rendering, and actual UI screenshots included.
-
-</details>
 
 ## Stack
 
